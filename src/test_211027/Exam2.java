@@ -12,7 +12,7 @@ public class Exam2 {
 
 		System.out.println("=======================");
 		System.out.println("프로그램 : 사칙연산");
-		System.out.println("작성자    : @@@");
+		System.out.println("작성자    : ");
 		System.out.println("작성일    : 2021-10-27");
 		System.out.println("=======================");
 
